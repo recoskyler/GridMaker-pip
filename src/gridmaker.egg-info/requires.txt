@@ -1,0 +1,11 @@
+PIL
+argparse
+base64
+colorama
+fileinput
+hashlib
+json
+math
+os
+re
+requests

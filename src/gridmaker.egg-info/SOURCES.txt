@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+setup.cfg
+setup.py
+src/GridMaker/__init__.py
+src/GridMaker/gridmaker.py
+src/gridmaker.egg-info/PKG-INFO
+src/gridmaker.egg-info/SOURCES.txt
+src/gridmaker.egg-info/dependency_links.txt
+src/gridmaker.egg-info/requires.txt
+src/gridmaker.egg-info/top_level.txt
